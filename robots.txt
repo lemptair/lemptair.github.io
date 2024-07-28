@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lemptair.github.io/sitemap.html.gz
+Sitemap: https://lemptair.github.io/app/sitemap.html.gz
+Sitemap: https://lemptair.github.io/assets/sitemap.html.gz
+Sitemap: https://lemptair.github.io/css/sitemap.html.gz
+Sitemap: https://lemptair.github.io/includes/sitemap.html.gz
+Sitemap: https://lemptair.github.io/item/sitemap.html.gz
+Sitemap: https://lemptair.github.io/src/sitemap.html.gz
